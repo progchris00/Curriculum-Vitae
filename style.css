@@ -213,3 +213,8 @@ body{
 .text-left{
     text-align: left;
 }
+
+.contact-container a{
+    text-decoration: none;
+    color: #3D3D3D;
+}
